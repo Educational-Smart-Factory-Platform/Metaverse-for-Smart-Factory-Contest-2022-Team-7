@@ -1,4 +1,4 @@
-# Metaverse-for-Smart-Factory-Contest-2022-Team-7-BU-Engine
+# Metaverse for Smart Factory Contest 2022BU-Engine
 ผลงานการแข่งขัน Metaverse for Smart Factory Contest 2022 (https://smartfactory.hcilab.net/contest/metaverse2022/)
 ## ชื่อผลงาน โรงงานคัดแยกผลไม้ด้วยเทคโนโลยีปัญญาประดิษฐ์และความเป็นจริงผสม(Smart Fruit Sorting plant via AI and Mixed-reality)
 ### ที่มาและความสำคัญ
@@ -14,4 +14,14 @@
 2. AR มีจะ Code แปะที่เครื่องจักร เมื่อมองไปที่เครื่องจักรระบบจะแสดงข้อมูลและออกคำสั่งได้เหมือนกับ Web application
 3. VR ระบบจะมีการจำลองระบบของโรงงานและยังสามารถแสดงข้อมูลและออกคำสั่งได้เหมือนกับ Web application
 
+### คลิปนำเสนอผลงาน
 
+
+## รายชื่อสมาชิกทีม BU Engine
+1. วิมลสิริ อู่เสือพะเนา
+2. คมกริช ธรรมมิภักดิ์
+3. พรพจน์ อัมไพพันธ์
+4. กมล จิรกิตตยากร
+5. ธีรพงศ์ สุภาผล
+### ช่องทางการติดต่อ
+Email: komkrit.tamm@bumail.net 
