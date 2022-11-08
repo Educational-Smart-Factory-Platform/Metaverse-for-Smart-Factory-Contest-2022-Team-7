@@ -1,4 +1,4 @@
-# Metaverse for Smart Factory Contest 2022BU-Engine
+# Metaverse for Smart Factory Contest 2022
 Repository นี้เป็นการเผยแพร่ผลงานการแข่งขัน [Metaverse for Smart Factory Contest 2022](https://smartfactory.hcilab.net/contest/metaverse2022/) ซึ่งผู้เข้าร่วมการแข่งขันยินยอมให้เผยแพร่ Source Code ทั้งหมดหรือบางส่วนของโปรแกรมจำลองการทำงาน (Simulation) โดยเป็น Source Code ส่วนการเชื่อมต่อระหว่างโปรแกรมจำลองการทำงาน (Simulation) และ TeleSorting System  มีวัตถุประสงค์เผยแพร่เพื่อให้นำไปใช้ในการศึกษา โดยมิได้อนุญาตให้นำไปใช้เชิงพาณิชย์ใด ๆ ทั้งสิ้น 
 
 ## ชื่อผลงาน โรงงานคัดแยกผลไม้ด้วยเทคโนโลยีปัญญาประดิษฐ์และความเป็นจริงผสม(Smart Fruit Sorting plant via AI and Mixed-reality)
